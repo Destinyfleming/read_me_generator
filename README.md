@@ -1,26 +1,19 @@
-# read_me_generator
-> Here is where we will describe the project.
+
+  # example read-me 
  
 ## Table of contents
 * [User story](#user-story)
+* [Description](#description)
 * [General info](#general-info)
-* [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [Live link](#live-link)
 
-## User story
-AS A developer
-I WANT a README generator
-SO THAT I can quickly create a professional README for a new project
-
-## General info
-And here is where the general info will go.
-
-## Screenshots
-![Screenshot](link here)
+## Description
+🔍 In this project i used node and inquirer to make a CLI that easily prompts users and creates a read me for them
 
 ## Technologies
-* TBD
+JS, node
 
-## Live link
-live link here
+## User-story
+💻 I want to be able to easily create a new read me using a CLI
+
+✉️ Email me with any questions: destiny.fleming7401@gmail.com
